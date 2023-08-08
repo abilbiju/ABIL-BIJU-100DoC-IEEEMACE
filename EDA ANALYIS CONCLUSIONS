@@ -1,0 +1,13 @@
+THE CSV file I used for the eda Analyis is (https://raw.githubusercontent.com/abilbiju/ABIL-BIJU-100DoC-IEEEMACE/main/reddit%20irritation.csv).
+Conclusion: Based on the EDA, you can draw some conclusions. Here are my 10 conclusions:
+
+The dataset contains information about users' irritation levels on Reddit.
+The age distribution is skewed towards younger users.
+There is a variety of irritation levels reported by users.
+The gender distribution is not uniform, with more male respondents.
+There might be a slight positive correlation between age and irritation.
+Users of different genders have similar irritation levels on average.
+Younger users tend to have higher levels of irritation.
+Most users' irritation levels fall in the lower range.
+There is no strong correlation between age and irritation.
+The dataset provides insights into the demographics and irritation levels of Reddit users.
